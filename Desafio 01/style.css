@@ -1,0 +1,21 @@
+
+body{
+    background-color: darkgoldenrod;
+    text-align: center;
+    align-content: center;
+    color: #fff;
+}
+section{
+    color: #000;
+    margin: auto;
+    align-items: center;
+    background-color: #fff;
+    width: 50%;
+    border-radius: 5px;
+    padding: 5px;
+}
+section img{
+    border-radius: 50%;
+    height: 50vh;
+    width: 50vh;
+}
